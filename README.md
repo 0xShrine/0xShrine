@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ef4444&text=Hi,%20I'm%20macroz&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=40:705EFF,60:1F06AC&text=0xShrine&fontSize=40&fontColor=FFFFFF" />
 </div>
 
-<p align="center">Penetration Tester & Software Developer</p>
+<p align="center">Cyber Threat Hunter & Software Engineer</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,typescript,go,discord,twitter,php,bash,kali,git,github" />
 </div>
